@@ -4,10 +4,6 @@
 A modern, fully responsive landing page built using HTML, CSS, and JavaScript.
 This project demonstrates responsive web design principles and basic JavaScript interactivity.
 
-🚀 Live Demo
-
-👉 (Add your GitHub Pages link here after deployment)
-Example: https://your-username.github.io/repository-name/
 
 📌 Features
 
@@ -21,8 +17,15 @@ Hero Section with Call-to-Action Button
 
 Services / About Section
 
-Contact Section
 
-Basic JavaScript Interactivity
+🛠️ Built With
 
-Cross-Browser Compatible
+HTML5 – Structure
+
+CSS3 – Styling & Media Queries
+
+JavaScript (ES6) – DOM Manipulation
+
+🚀 Live Demo
+
+👉https://niharikaguda86.github.io/SCT_WD_1/
