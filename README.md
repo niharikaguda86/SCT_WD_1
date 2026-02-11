@@ -1,14 +1,14 @@
-##SkillCraft Technology – Web Development Internship
+## SkillCraft Technology – Web Development Internship
 
-Task 01: Responsive Landing Page with Interactive Navigation
+### Task 01: Responsive Landing Page with Interactive Navigation
 
-🌐 Responsive Landing Page
+#### 🌐 Responsive Landing Page
 
 A modern, fully responsive landing page built using HTML, CSS, and JavaScript.
 This project demonstrates responsive web design principles and basic JavaScript interactivity.
 
 
-📌 Features
+#### 📌 Features
 
 Fully Responsive Design (Mobile, Tablet, Desktop)
 
@@ -21,7 +21,7 @@ Hero Section with Call-to-Action Button
 Services / About Section
 
 
-🛠️ Built With
+#### 🛠️ Built With
 
 HTML5 – Structure
 
@@ -29,6 +29,9 @@ CSS3 – Styling & Media Queries
 
 JavaScript (ES6) – DOM Manipulation
 
-🚀 Live Demo
+#### 🚀 Live Demo
 
 👉https://niharikaguda86.github.io/SCT_WD_1/
+
+#### 📌 Status
+✅ Task 01 completed successfully.
