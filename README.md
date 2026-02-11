@@ -1,19 +1,28 @@
 # SCT_WD_1
-🌐 Responsive Landing Page 
+🌐 Responsive Landing Page
 
-A modern and fully responsive landing page built using HTML, CSS, and JavaScript.
-This project demonstrates clean UI design, responsive layout techniques, and basic interactivity for web development practice.
+A modern, fully responsive landing page built using HTML, CSS, and JavaScript.
+This project demonstrates responsive web design principles and basic JavaScript interactivity.
 
-🚀 Features
+🚀 Live Demo
 
-✅ Fully Responsive Design (Mobile, Tablet, Desktop)
-✅ Clean and Modern UI
-✅ Navigation Bar with Smooth Scroll
-✅ Hero Section with Call-to-Action Button
-✅ About / Services Section
+👉 (Add your GitHub Pages link here after deployment)
+Example: https://your-username.github.io/repository-name/
 
-🛠️ Technologies Used
+📌 Features
 
-HTML5 – Structure of the webpage
-CSS3 – Styling and responsive design (Flexbox / Media Queries)
-JavaScript (ES6) – Interactivity and DOM manipulation
+Fully Responsive Design (Mobile, Tablet, Desktop)
+
+Modern and Clean UI
+
+Navigation Bar with Smooth Scrolling
+
+Hero Section with Call-to-Action Button
+
+Services / About Section
+
+Contact Section
+
+Basic JavaScript Interactivity
+
+Cross-Browser Compatible
